@@ -1,0 +1,7 @@
+{
+  "name": "Dream Trace - AI 智能无限画布",
+  "description": "基于 Gemini 3 与 Veo 3.1 的集成式 AI 创意画布，支持节点流工作流与 3D 运镜控制。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
